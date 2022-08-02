@@ -17,4 +17,6 @@ Esse desafio consiste em realizar as seguintes tarefas:
 
 > O objetivo do projeto é entregar uma análise extensiva e um modelo de classificação eficiente, capaz de prever identificar o valor das ocorrências de forma mais satisfatória, solucionando dessa forma um problema da empresa.
 
+Para poder executar as linhas de código, é necessário fazer a importação do dataset temporariamente no google colab, após isso, os códigos de leitura dos dados devem seguir fluidamente.
+
 [Clique aqui para acessar o projeto](https://colab.research.google.com/drive/1dtVCBOisVb5fchkzVU7Wvb_rHowHq1-0?usp=sharing)
